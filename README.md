@@ -13,3 +13,4 @@
 文本序列：str
 集合：set
 映射：dict
+枚举：enumerate
